@@ -20,5 +20,8 @@ mss (for screen capture)
 Google Generative AI (gemini-pro)
 Pillow (for image handling)
 
+Nisarg Panchal
+If you liked the project, feel free to ⭐ star the repo or reach out to collaborate!
+
 
 
